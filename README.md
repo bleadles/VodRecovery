@@ -1,5 +1,8 @@
 # VodRecovery for Google Colab
 
+### Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bleadles/VodRecovery/blob/main/VodRecovery.ipynb)
+
 # Welcome to Vod Recovery
 
 This is a Fork of [VodRecovery](https://github.com/Shishkebaboo/VodRecovery) which can be used to recover and download Twitch Vods, Highlights and Clips, containing some adjustments and improvements.
