@@ -3,4 +3,4 @@ requests==2.31.0
 beautifulsoup4==4.12.3
 natsort==8.4.0
 ffmpeg_downloader==0.3.0
-seleniumbase==4.25.4
+seleniumbase==4.27.2
